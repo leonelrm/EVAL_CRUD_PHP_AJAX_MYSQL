@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8479dfc-231d-4f79-bf69-467d168c191f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="8d19c436-4569-4907-9ba5-07ead16e27b2" name="apache" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../../xampp/php/PEAR" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jmAi1dGBqgEWhPnrDdilV8BIh0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="Database Script.creation.sql">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="creation.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/assets/db/creation.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="aws" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="apache" start_url="/EVAL_CRUD_PHP_AJAX_MYSQL">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>86ecc863-eec7-4d97-b810-11a4ec230d5f</server_id>
+          <server_name>apache2</server_name>
+          <group_name />
+          <path>C:\Users\conenac\Documents\github\EVAL_CRUD_PHP_AJAX_MYSQL</path>
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.creation.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8479dfc-231d-4f79-bf69-467d168c191f" name="Default Changelist" comment="" />
+      <created>1604399016999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604399016999</updated>
+      <workItem from="1604399018873" duration="1366000" />
+      <workItem from="1604400686139" duration="1401000" />
+      <workItem from="1604402133441" duration="696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="82" key="#Deployment" timestamp="1604400850406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="82" key="#Deployment/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400850406" />
+    <state x="348" y="79" key="#Servers" timestamp="1604400710409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="79" key="#Servers/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400710409" />
+    <state x="572" y="152" key="#Web_Browsers" timestamp="1604400251517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="572" y="152" key="#Web_Browsers/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400251517" />
+    <state x="-1697" y="110" width="1089" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604402448373">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state x="-1697" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604402448373" />
+    <state x="223" y="39" width="1089" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604402248008" />
+    <state x="548" y="178" key="FileChooserDialogImpl" timestamp="1604400398570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="178" key="FileChooserDialogImpl/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400398570" />
+    <state width="250" height="539" key="HiddenNamespacesPopup" timestamp="1604402790501">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state width="250" height="539" key="HiddenNamespacesPopup/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604402790501" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1604399135749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604399135749" />
+    <state x="591" y="290" width="623" height="266" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1604400852890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="290" width="623" height="266" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400852890" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="apache2" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="apache2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="EVAL_CRUD_PHP_AJAX_MYSQL" local="$PROJECT_DIR$" web="/EVAL_CRUD_PHP_AJAX_MYSQL" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
