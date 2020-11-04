@@ -36,7 +36,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
-  <component name="RunManager" selected="Database Script.creation.sql">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\conenac\Documents\github\EVAL_CRUD_PHP_AJAX_MYSQL" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Page.aws">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -53,7 +58,7 @@
       <script-mode>FILE</script-mode>
       <method v="2" />
     </configuration>
-    <configuration name="aws" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="apache" start_url="/EVAL_CRUD_PHP_AJAX_MYSQL">
+    <configuration name="aws" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="apache" start_url="/EVAL_CRUD_PHP_AJAX_MYSQL">
       <method v="2">
         <option name="FtpUpload" enabled="true">
           <server_id>86ecc863-eec7-4d97-b810-11a4ec230d5f</server_id>
@@ -63,6 +68,10 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Database Script.creation.sql" />
+      <item itemvalue="PHP Web Page.aws" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Database Script.creation.sql" />
@@ -79,7 +88,7 @@
       <updated>1604399016999</updated>
       <workItem from="1604399018873" duration="1366000" />
       <workItem from="1604400686139" duration="1401000" />
-      <workItem from="1604402133441" duration="696000" />
+      <workItem from="1604402133441" duration="34342000" />
     </task>
     <servers />
   </component>
@@ -99,22 +108,47 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="572" y="152" key="#Web_Browsers/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400251517" />
-    <state x="-1697" y="110" width="1089" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604402448373">
+    <state x="-1697" y="110" width="1089" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604407846332">
       <screen x="-1920" y="71" width="1536" height="824" />
     </state>
-    <state x="-1697" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604402448373" />
+    <state x="-1697" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604407846332" />
     <state x="223" y="39" width="1089" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604402248008" />
+    <state x="-1471" y="275" key="EditFileWatcherDialog" timestamp="1604409440954">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state x="-1471" y="275" key="EditFileWatcherDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604409440954" />
     <state x="548" y="178" key="FileChooserDialogImpl" timestamp="1604400398570">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="178" key="FileChooserDialogImpl/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400398570" />
+    <state width="496" height="202" key="GridCell.Tab.0.bottom" timestamp="1604407740850">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state width="496" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604407740850" />
+    <state width="496" height="202" key="GridCell.Tab.0.center" timestamp="1604407740850">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state width="496" height="202" key="GridCell.Tab.0.center/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604407740850" />
+    <state width="496" height="202" key="GridCell.Tab.0.left" timestamp="1604407740850">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state width="496" height="202" key="GridCell.Tab.0.left/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604407740850" />
+    <state width="496" height="202" key="GridCell.Tab.0.right" timestamp="1604407740850">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state width="496" height="202" key="GridCell.Tab.0.right/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604407740850" />
     <state width="250" height="539" key="HiddenNamespacesPopup" timestamp="1604402790501">
       <screen x="-1920" y="71" width="1536" height="824" />
     </state>
     <state width="250" height="539" key="HiddenNamespacesPopup/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604402790501" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1604399135749">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1303" y="417" key="NewPhpFileDialog" timestamp="1604498567070">
+      <screen x="-1920" y="71" width="1536" height="824" />
     </state>
+    <state x="-1303" y="417" key="NewPhpFileDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604498567070" />
+    <state x="-1643" y="128" key="SettingsEditor" timestamp="1604413088409">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state x="-1643" y="128" key="SettingsEditor/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604413088409" />
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604399135749" />
     <state x="591" y="290" width="623" height="266" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1604400852890">
       <screen x="0" y="0" width="1536" height="824" />

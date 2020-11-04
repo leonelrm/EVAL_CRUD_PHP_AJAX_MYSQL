@@ -1,64 +1,27 @@
 <?php
 
 require_once 'functions/helper.php';
+session_start();
+
 
 //On etablit la connexion a la BDD MariaDB
 $connexion = db_connexion();
+$pseudo =  trim(ucfirst($_POST['pseudo']));
+$mdp =  trim($_POST['mdp']);
+$mdp1 =  trim($_POST['mdp1']);
 
-//On traite la requete : SELECT * FROM Stagiaire
-if (!empty($_GET["all"])) {
-    $requete = "select * from stagiaire";
-    try {
-        $stagiaires = $connexion->query($requete)->fetchAll(PDO::FETCH_ASSOC);
-        echo json_encode($stagiaires, JSON_THROW_ON_ERROR);
-    } catch (PDOException|JsonException $e) {
-        $e->getMessage();
-    }
-}
+if (!empty($_POST['pseudo'])  && $mdp===$mdp1){
 
-//On traite la requete : INSERT
-if (!empty($_POST['insert'])) {
-    $prenom = $_POST['prenom'];
-    $email = $_POST['email'];
-    $ville = $_POST['ville'];
-
-    $requete = "insert into stagiaire(prenom, email, ville) VALUES (?, ?, ?)";
+       $requete = "insert into users(pseudo,mdp) VALUES (?, ?)";
 
     try {
         $requetePreparee = $connexion->prepare($requete);
-        $requetePreparee->execute([$prenom, $email, $ville]);
+        $requetePreparee->execute([$pseudo, $mdp]);
+
     } catch (Exception $exception) {
         $exception->getMessage();
     }
-}
-
-//On traite la requete : UPDATE
-if (!empty($_POST['update'])) {
-    $prenom = $_POST['prenom'];
-    $email = $_POST['email'];
-    $ville = $_POST['ville'];
-    $id = $_POST['id'];
-
-    $requete = "update stagiaire set prenom = ?, email= ?, ville= ? where id = ?";
-
-    try {
-        $requetePreparee = $connexion->prepare($requete);
-        $requetePreparee->execute([$prenom, $email, $ville, $id]);
-    } catch (Exception $exception) {
-        $exception->getMessage();
-    }
-}
-
-//On traite la requete : DELETE
-if (!empty($_POST['delete'])) {
-    $id = $_POST['id'];
-
-    $requete = "delete from stagiaire where id = ?";
-
-    try {
-        $requetePreparee = $connexion->prepare($requete);
-        $requetePreparee->execute([$id]);
-    } catch (Exception $exception) {
-        $exception->getMessage();
-    }
+    header('Location: game.php');
+}else{
+    header('Location: index.php');
 }

@@ -2,10 +2,9 @@
 
 function db_connexion()
 {
-    $database = "crud_php_ajx_db";
+    $database = "multiply_game_db";
     $user = "root";
     $pass = "";
-
     $url = "mysql:host=127.0.0.1;dbname=$database;charset=utf8";
 
     try {
