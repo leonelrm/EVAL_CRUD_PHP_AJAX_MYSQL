@@ -6,13 +6,14 @@
 .container {
   #img{
     img{
-      margin-top: 1.5rem;
-      height: 400px;
+      height: 555px;
+      width: 530px;
     }
   }
 
   .titre-page {
     background-color: $couleur-base;
+
   }
 
   .monForm {
@@ -49,13 +50,18 @@
   margin-top: 3rem;
   .form-signin {
     border: 1px solid #cfd8dc;
-    img{
-      text-decoration-color: $couleur-base;
-    }
     .btn-connexion {
       background-color: $couleur-base;
       color: white;
     }
+  }
+  #erreur {
+    p{
+      background-color: #f8bbd0;
+      margin-bottom: 0.5rem;
+      padding: .5rem 0;
+    }
+
   }
 
 }

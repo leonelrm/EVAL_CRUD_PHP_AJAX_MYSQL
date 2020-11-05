@@ -22,7 +22,7 @@ session_start();
 <body>
 
 <div class="container" id="navbar">
-    <div class="text-left  text-uppercase py-3  justify-content-end text-white titre-page">
+    <div class="titre-page text-left  text-uppercase py-3  px-3 justify-content-end text-white">
         <img src="images/logo.jpg" alt="logo" style="width: 100px ">
         <ul class="nav justify-content-end ">
             <li class="nav-item">
@@ -35,7 +35,7 @@ session_start();
     </div>
 </div>
 <div class="container  d-flex my-4">
-    <div id="img" class="col-md-6 ">
+    <div id="img" class="col-md-6 my-auto">
         <img src="images/accueil.jpg"  alt="accueil">
     </div>
     <div id="monForm" class="monForm mx-auto col-md-6">

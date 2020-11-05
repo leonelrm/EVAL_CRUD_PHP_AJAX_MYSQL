@@ -20,31 +20,34 @@ session_start();
 <body>
 
     <div class="container" id="navbar">
-        <div class="text-left  text-uppercase py-3  justify-content-end text-white titre-page">
+        <div class="text-left  text-uppercase py-3 px-3 justify-content-end text-white titre-page">
             <img src="images/logo.jpg" alt="logo" style="width: 100px ">
             <ul class="nav justify-content-end ">
                 <li class="nav-item">
-                    <a class="nav-link-active text-white px-2" href="#">Login</a>
+                    <a class="nav-link-active text-white px-2" href="login.php">Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link-active text-white px-2" href="#">Register</a>
+                    <a class="nav-link-active text-white px-2" href="index.php">Register</a>
                 </li>
             </ul>
         </div>
     </div>
     <div id="login" class="container text-center mx-auto">
-        <form class="form-signin py-5 px-4">
+        <form class="form-signin py-5 px-4" action="server.php" method="post">
             <img class="mb-4" src="images/login.jpg" alt="" width="72" height="72">
+            <div class="erreur" id="erreur">
+                <p>user inconnu du systeme</p>
+            </div>
             <div class="form-group">
                 <label for="inputEmail" class="sr-only">Votre Pseudo de connexion</label>
-                <input type="email" id="inputEmail" class="form-control" placeholder="Votre Pseudo de connexion" required>
+                <input type="text" id="inputEmail" class="form-control" placeholder="Votre Pseudo de connexion" required>
             </div>
             <div class="form-group">
                 <label for="inputPassword" class="sr-only">Votre mot de passe</label>
                 <input type="password" id="inputPassword" class="form-control" placeholder="Votre mot de passe" required>
             </div>
             <button class="btn-connexion btn-lg btn-block" type="submit">Connexion</button>
-            <p class="mt-2 mb-1 ">Vous n'avez pas un compte? Creez en un <a href="index.php">ici</a></p>
+            <p class="mt-1 mb-1 ">Vous n'avez pas un compte? Creez en un <a href="index.php">ici</a></p>
         </form>
     </div>
 <!-- Optional JavaScript; choose one of the two! -->

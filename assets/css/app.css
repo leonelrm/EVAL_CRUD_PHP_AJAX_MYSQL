@@ -3,8 +3,8 @@
 }
 
 .container #img img {
-  margin-top: 1.5rem;
-  height: 400px;
+  height: 555px;
+  width: 530px;
 }
 .container .titre-page {
   background-color: #004d40;
@@ -37,12 +37,14 @@
 #login .form-signin {
   border: 1px solid #cfd8dc;
 }
-#login .form-signin img {
-  text-decoration-color: #004d40;
-}
 #login .form-signin .btn-connexion {
   background-color: #004d40;
   color: white;
+} 
+#login #erreur p {
+  background-color: #f8bbd0;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem 0;
 }
 
 /*# sourceMappingURL=app.css.map */

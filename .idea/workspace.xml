@@ -42,17 +42,6 @@
     </key>
   </component>
   <component name="RunManager" selected="PHP Web Page.aws">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="creation.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/assets/db/creation.sql" />
       <script-mode>FILE</script-mode>
@@ -88,7 +77,9 @@
       <updated>1604399016999</updated>
       <workItem from="1604399018873" duration="1366000" />
       <workItem from="1604400686139" duration="1401000" />
-      <workItem from="1604402133441" duration="34342000" />
+      <workItem from="1604402133441" duration="34343000" />
+      <workItem from="1604562616422" duration="4477000" />
+      <workItem from="1604567612169" duration="4571000" />
     </task>
     <servers />
   </component>
@@ -100,6 +91,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="360" y="82" key="#Deployment/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400850406" />
+    <state x="522" y="232" key="#Notifications" timestamp="1604572037805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="232" key="#Notifications/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604572037805" />
+    <state x="442" y="73" key="#Options" timestamp="1604572106617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="73" key="#Options/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604572106617" />
     <state x="348" y="79" key="#Servers" timestamp="1604400710409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -113,6 +112,10 @@
     </state>
     <state x="-1697" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604407846332" />
     <state x="223" y="39" width="1089" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604402248008" />
+    <state x="-1827" y="164" width="1350" height="638" key="DirDiffDialog" timestamp="1604565606708">
+      <screen x="-1920" y="71" width="1536" height="824" />
+    </state>
+    <state x="-1827" y="164" width="1350" height="638" key="DirDiffDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604565606708" />
     <state x="-1471" y="275" key="EditFileWatcherDialog" timestamp="1604409440954">
       <screen x="-1920" y="71" width="1536" height="824" />
     </state>

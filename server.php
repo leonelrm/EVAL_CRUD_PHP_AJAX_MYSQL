@@ -6,6 +6,7 @@ session_start();
 
 //On etablit la connexion a la BDD MariaDB
 $connexion = db_connexion();
+
 $pseudo =  trim(ucfirst($_POST['pseudo']));
 $mdp =  trim($_POST['mdp']);
 $mdp1 =  trim($_POST['mdp1']);
