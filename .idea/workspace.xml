@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8479dfc-231d-4f79-bf69-467d168c191f" name="Default Changelist" comment="" />
+    <list default="true" id="f8479dfc-231d-4f79-bf69-467d168c191f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
-      <path value="$PROJECT_DIR$/../../../../../xampp/php/PEAR" />
+      <path value="$PROJECT_DIR$/../../../../../wamp64/bin/php/php7.3.21" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jmAi1dGBqgEWhPnrDdilV8BIh0" />
@@ -33,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../wamp64/bin/php/php7.3.21/php.exe" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +83,9 @@
       <workItem from="1604400686139" duration="1401000" />
       <workItem from="1604402133441" duration="34343000" />
       <workItem from="1604562616422" duration="4477000" />
-      <workItem from="1604567612169" duration="4571000" />
+      <workItem from="1604567612169" duration="4879000" />
+      <workItem from="1605524989060" duration="71000" />
+      <workItem from="1605525086398" duration="172000" />
     </task>
     <servers />
   </component>
@@ -87,6 +93,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="348" y="67" key="#CLI_Interpreters" timestamp="1605525223863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1605525223863" />
     <state x="360" y="82" key="#Deployment" timestamp="1604400850406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -120,10 +130,11 @@
       <screen x="-1920" y="71" width="1536" height="824" />
     </state>
     <state x="-1471" y="275" key="EditFileWatcherDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604409440954" />
-    <state x="548" y="178" key="FileChooserDialogImpl" timestamp="1604400398570">
+    <state x="548" y="178" key="FileChooserDialogImpl" timestamp="1605525218246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="178" key="FileChooserDialogImpl/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604400398570" />
+    <state x="548" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605525218246" />
     <state width="496" height="202" key="GridCell.Tab.0.bottom" timestamp="1604407740850">
       <screen x="-1920" y="71" width="1536" height="824" />
     </state>
@@ -148,11 +159,12 @@
       <screen x="-1920" y="71" width="1536" height="824" />
     </state>
     <state x="-1303" y="417" key="NewPhpFileDialog/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604498567070" />
-    <state x="-1643" y="128" key="SettingsEditor" timestamp="1604413088409">
-      <screen x="-1920" y="71" width="1536" height="824" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605525254986">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1643" y="128" key="SettingsEditor/0.0.1536.824/-1920.71.1536.824@-1920.71.1536.824" timestamp="1604413088409" />
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.71.1536.824@0.0.1536.824" timestamp="1604399135749" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605525254986" />
     <state x="591" y="290" width="623" height="266" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1604400852890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

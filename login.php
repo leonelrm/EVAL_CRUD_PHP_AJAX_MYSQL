@@ -39,11 +39,11 @@ session_start();
                 <p>user inconnu du systeme</p>
             </div>
             <div class="form-group">
-                <label for="inputEmail" class="sr-only">Votre Pseudo de connexion</label>
-                <input type="text" id="inputEmail" class="form-control" placeholder="Votre Pseudo de connexion" required>
+                <label for="login" class="sr-only">Votre Pseudo de connexion</label>
+                <input type="text" id="login" name="login" class="form-control" placeholder="Votre Pseudo de connexion" required>
             </div>
             <div class="form-group">
-                <label for="inputPassword" class="sr-only">Votre mot de passe</label>
+                <label for="password" class="sr-only">Votre mot de passe</label>
                 <input type="password" id="inputPassword" class="form-control" placeholder="Votre mot de passe" required>
             </div>
             <button class="btn-connexion btn-lg btn-block" type="submit">Connexion</button>
